@@ -2,7 +2,7 @@ package tests;
 
 import config.Config;
 
-import org.testng.annotations.AfterTest;
+
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import pageObject.RegisterPage;
